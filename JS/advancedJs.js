@@ -1,1 +1,0 @@
-// Gồm các phần nâng cao của js sẽ được tiếp cận và giả thích trong thời gian tới với sự cẩn thận nhất. 
