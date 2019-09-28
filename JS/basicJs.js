@@ -16,3 +16,5 @@
    find: tìm kiếm theo thứ tự
    reduce: 
 */
+
+console.log('Hello');
