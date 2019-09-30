@@ -16,3 +16,16 @@
    find: tìm kiếm theo thứ tự
    reduce: 
 */
+// console.log(Math.ceil(9.9));
+/*
+   Math trong JS
+   ceil
+   floor
+   random 0-1
+
+*/
+
+/*
+   Phân biệt constructor function và normal function
+   Trong tất cả các object đều có prototype nguyên mẫu mà mỗi new đều có và cả .contructor
+*/
